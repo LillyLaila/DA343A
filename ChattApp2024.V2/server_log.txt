@@ -1,0 +1,258 @@
+
+
+2024-01-23 23:55:50 ett Connected
+
+2024-01-23 23:55:52 två Connected
+
+2024-01-23 23:55:57 två sent a message to online user: ett Messagetext: Hej  Image sent: null
+
+2024-01-23 23:56:02 två Disconnected
+
+2024-01-23 23:56:11 ett message to offline user: två Messagetext: null Image sent: /Users/tiffanyzon/Documents/intellij_projekt/ChattApp2024.V2/src/pics/gratas.png
+
+2024-01-23 23:56:13 ett Disconnected
+
+2024-01-24 07:56:27 ett Connected
+
+2024-01-24 07:56:30 två Connected
+
+2024-01-24 07:56:46 ett message to offline user: tre Messagetext: Hej tre!  Image sent: /Users/tiffanyzon/Documents/intellij_projekt/ChattApp2024.V2/src/pics/gratas.png
+
+2024-01-24 07:57:04 två sent a message to online user: ett Messagetext: yoooo Image sent: null
+
+2024-01-24 07:57:08 ett sent a message to online user: två Messagetext: null Image sent: /Users/tiffanyzon/Documents/intellij_projekt/ChattApp2024.V2/src/pics/onlineofflinecat.png
+
+2024-01-24 07:57:18 ett Disconnected
+
+2024-01-24 07:57:29 tre Connected
+
+2024-01-24 07:57:29 tre received message from: ett Message text: Hej tre!  Image: /Users/tiffanyzon/Documents/intellij_projekt/ChattApp2024.V2/src/pics/gratas.png
+
+2024-01-24 07:57:56 två Disconnected
+
+2024-01-24 07:58:03 tre message to offline user: ett Messagetext: null Image sent: /Users/tiffanyzon/Documents/intellij_projekt/ChattApp2024.V2/src/pics/lama.png
+
+2024-01-24 07:58:07 tre Disconnected
+
+2024-01-24 08:01:32 ett Connected
+
+2024-01-24 08:01:34 två Connected
+
+2024-01-24 08:01:39 två sent a message to online user: ett Messagetext: hej Image sent: null
+
+2024-01-24 08:01:57 tre Connected
+
+2024-01-24 08:02:09 ett Disconnected
+
+2024-01-24 08:09:48 ett Connected
+
+2024-01-24 08:09:51 två Connected
+
+2024-01-24 08:09:56 ett sent a message to online user: två Messagetext: gej Image sent: null
+
+2024-01-24 08:10:05 två sent a message to online user: ett Messagetext: null Image sent: /Users/tiffanyzon/Documents/intellij_projekt/ChattApp2024.V2/src/pics/gratas.png
+
+2024-01-24 20:55:33 ett Connected
+
+2024-01-24 20:55:36 två Connected
+
+2024-01-24 20:55:46 ett sent a message to online user: två Messagetext: hejhej Image sent: /Users/tiffanyzon/Documents/intellij_projekt/ChattApp2024.V2/src/pics/gratas.png
+
+2024-01-24 20:55:52 ett Disconnected
+
+2024-01-24 20:55:53 två Disconnected
+
+2024-01-24 21:02:42 ett Connected
+
+2024-01-24 21:02:49 ett Disconnected
+
+2024-01-24 21:04:58 ett Connected
+
+2024-01-24 21:05:03 ett Disconnected
+
+2024-01-24 21:09:33 ett Connected
+
+2024-01-24 21:09:42 två Connected
+
+2024-01-24 21:09:50 två Disconnected
+
+2024-01-24 21:09:51 ett Disconnected
+
+2024-01-24 21:13:01 två Connected
+
+2024-01-24 21:13:02 ett Connected
+
+2024-01-24 21:13:18 två sent a message to online user: ett Messagetext: null Image sent: /Users/tiffanyzon/Documents/intellij_projekt/ChattApp2024.V2/src/pics/katttnej.png
+
+2024-01-24 21:13:25 ett sent a message to online user: två Messagetext: null Image sent: /Users/tiffanyzon/Documents/intellij_projekt/ChattApp2024.V2/src/pics/katttt.png
+
+2024-01-24 21:13:32 två sent a message to online user: ett Messagetext: null Image sent: /Users/tiffanyzon/Documents/intellij_projekt/ChattApp2024.V2/src/pics/lama.png
+
+2024-01-24 21:13:38 ett sent a message to online user: två Messagetext: null Image sent: /Users/tiffanyzon/Documents/intellij_projekt/ChattApp2024.V2/src/pics/vad.png
+
+2024-01-24 21:13:39 två sent a message to online user: ett Messagetext: null Image sent: /Users/tiffanyzon/Documents/intellij_projekt/ChattApp2024.V2/src/pics/lama.png
+
+2024-01-24 21:13:44 två sent a message to online user: ett Messagetext: null Image sent: /Users/tiffanyzon/Documents/intellij_projekt/ChattApp2024.V2/src/pics/gratas.png
+
+2024-01-24 21:13:49 ett Disconnected
+
+2024-01-24 21:13:50 två Disconnected
+
+2024-01-24 21:17:50 ett Connected
+
+2024-01-24 21:17:54 ett message to offline user: två Messagetext: gej Image sent: null
+
+2024-01-24 21:18:01 två Connected
+
+2024-01-24 21:18:01 två received message from: ett Message text: gej Image: null
+
+2024-01-24 21:33:59 ett Connected
+
+2024-01-24 21:34:07 två Connected
+
+2024-01-24 21:34:17 två sent a message to online user: ett Messagetext: hej Image sent: null
+
+2024-01-24 21:34:20 ett sent a message to online user: två Messagetext: vad gör du Image sent: null
+
+2024-01-24 21:35:56 ett Connected
+
+2024-01-24 21:35:57 ett Disconnected
+
+2024-01-24 21:46:29 ett Connected
+
+2024-01-24 21:48:17 ett Connected
+
+2024-01-24 21:59:23 ett Connected
+
+2024-01-24 21:59:29 två Connected
+
+2024-01-24 21:59:40 två sent a message to online user: ett Messagetext: tte Image sent: null
+
+2024-01-24 21:59:42 ett sent a message to online user: två Messagetext: ettet Image sent: null
+
+2024-01-24 22:02:16 ett Connected
+
+2024-01-24 22:05:34 ett Connected
+
+2024-01-24 22:05:35 ett Disconnected
+
+2024-01-24 22:05:48 två Connected
+
+2024-01-24 22:05:50 två Disconnected
+
+2024-01-24 22:09:34 ett Connected
+
+2024-01-24 22:09:37 ett message to offline user: två Messagetext: hej Image sent: null
+
+2024-01-24 22:09:41 två Connected
+
+2024-01-24 22:09:41 två received message from: ett Message text: hej Image: null
+
+2024-01-24 22:09:50 två sent a message to online user: ett Messagetext: gejge Image sent: /Users/tiffanyzon/Documents/intellij_projekt/ChattApp2024.V2/src/pics/gratas.png
+
+2024-01-24 22:09:55 två Disconnected
+
+2024-01-24 22:09:57 ett Disconnected
+
+2024-01-25 18:48:06 ett Connected
+
+2024-01-25 18:48:16 tre Connected
+
+2024-01-25 18:48:35 tre sent a message to online user: ett Messagetext: hej  Image sent: /Users/tiffanyzon/Documents/intellij_projekt/ChattApp2024.V2/src/pics/gratas.png
+
+2024-01-25 18:48:47 ett sent a message to online user: tre Messagetext: vad gör du  Image sent: /Users/tiffanyzon/Documents/intellij_projekt/ChattApp2024.V2/src/pics/katttt.png
+
+2024-01-25 18:49:47 ett Connected
+
+2024-01-25 18:49:52 två Connected
+
+2024-01-25 18:50:06 två sent a message to online user: ett Messagetext: hej  Image sent: /Users/tiffanyzon/Documents/intellij_projekt/ChattApp2024.V2/src/pics/vad.png
+
+2024-01-25 18:50:15 ett sent a message to online user: två Messagetext: vad är dett  Image sent: /Users/tiffanyzon/Documents/intellij_projekt/ChattApp2024.V2/src/pics/katttnej.png
+
+2024-01-25 18:50:31 ett Disconnected
+
+2024-01-25 18:50:32 två Disconnected
+
+2024-02-15 12:20:37 Tiff Connected
+
+2024-02-15 12:20:57 Zon Connected
+
+2024-02-15 12:21:05 Zon sent a message to online user: Tiff Messagetext: yo Image sent: null
+
+2024-02-15 12:21:15 Tiff sent a message to online user: Zon Messagetext: null Image sent: /Users/tiffanyzon/Documents/intellij_projekt/ChattApp2024.V2/src/pics/katttt.png
+
+2024-02-15 12:21:19 Tiff sent a message to online user: Zon Messagetext: vad göru Image sent: /Users/tiffanyzon/Documents/intellij_projekt/ChattApp2024.V2/src/pics/katttt.png
+
+2024-02-15 12:21:21 Zon sent a message to online user: Tiff Messagetext: gag Image sent: null
+
+2024-02-15 12:21:27 Zon Disconnected
+
+2024-02-15 12:21:32 Tiff Disconnected
+
+2024-02-15 12:21:48 Zon Connected
+
+2024-02-15 12:21:50 Zon Disconnected
+
+2024-02-28 11:39:24 Tiffanyzon Connected
+
+2024-02-28 11:39:35 EJEJE Connected
+
+2024-02-28 11:40:07 EJEJE sent a message to online user: Tiffanyzon Messagetext: Yoo Image sent: /Users/tiffanyzon/Documents/intellij_projekt/ChattApp2024.V2/src/pics/katttnej.png
+
+2024-02-28 11:40:15 Tiffanyzon Disconnected
+
+2024-02-28 11:40:20 EJEJE Disconnected
+
+2024-02-28 11:40:42 EJEJE Connected
+
+2024-02-28 11:40:51 EJEJE message to offline user: Tiffanyzon Messagetext: TIFFFFFF Image sent: null
+
+2024-02-28 11:40:54 EJEJE Disconnected
+
+2024-02-28 11:41:08 Tiffanyzon Connected
+
+2024-02-28 11:41:08 Tiffanyzon received message from: EJEJE Message text: TIFFFFFF Image: null
+
+2024-02-28 11:41:35 EJEJE Connected
+
+2024-02-28 11:41:44 EJEJE Disconnected
+
+2024-02-28 11:41:46 Tiffanyzon Disconnected
+
+2024-02-28 11:59:36 ett Connected
+
+2024-02-28 11:59:50 EJEJE Connected
+
+2024-02-28 12:01:08 EJEJE Disconnected
+
+2024-02-28 12:01:50 ggg Connected
+
+2024-02-28 12:01:52 ggg Disconnected
+
+2024-02-28 12:04:02 1a Connected
+
+2024-02-28 12:04:09 2a Connected
+
+2024-02-28 12:04:21 2a sent a message to online user: 1a Messagetext: htfhtr Image sent: null
+
+2024-02-28 12:04:28 1a sent a message to online user: 2a Messagetext: eeee Image sent: null
+
+2024-02-28 12:04:32 1a sent a message to online user: 2a Messagetext: null Image sent: /Users/tiffanyzon/Documents/intellij_projekt/ChattApp2024.V2/src/pics/gratas.png
+
+2024-02-28 12:04:37 1a Disconnected
+
+2024-02-28 12:04:38 2a Disconnected
+
+2024-02-28 12:29:47 ett Connected
+
+2024-02-28 12:29:53 två Connected
+
+2024-02-28 12:30:01 två sent a message to online user: ett Messagetext: rrrrr Image sent: null
+
+2024-02-28 12:30:06 ett sent a message to online user: två Messagetext: wwww Image sent: null
+
+2024-02-28 12:30:08 ett Disconnected
+
+2024-02-28 12:30:09 två Disconnected
+
